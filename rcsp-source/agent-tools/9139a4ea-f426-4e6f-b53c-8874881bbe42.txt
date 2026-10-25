@@ -1,0 +1,948 @@
+## Accessory Dwelling Unit GUIDEBOOK
+
+SPONSORED BY: PRODUCED BY:
+
+p^fZd^ahnlbg`Z__hk]Z[e^
+
+#### Table of Contents
+
+Introduction ... 3 
+I. What Are Accessory Dwelling Units? ... 7 
+II. The Value of Accessory Dwelling Units ... 11 
+III. Regulatory Barriers and Practical Solutions ... 17 
+IV. Funding and Incentivizing ADU Development ... 27 
+V. Concerns over ADUs as Short-Term Vacation Rentals & Student Housing ... 31 
+VI. How to Combat Potential Neighborhood Opposition ... 33 
+VII. ADUs and Tiny Homes ... 37 
+VIII. Best Practices ... 39 
+IX. Model Ordinance ... 41 
+X. Examples of ADU Policies in Florida ... 45 
+XI. Other Resources for ADU Models ... 49 
+Appendix: Local Government Template for ADU Manual for Homeowners ... 51 
+
+Virtually every community in Florida is suffering from an affordable housing shortage. Of Florida’s three million low-income households, over 1.94 million, or 26% of all Florida households, are cost-burdened; they spend more than 30% of their income on housing. Another 1.1 million households, or 15% of all Florida households, are severely cost burdened, spending more than 50% of their income on housing. Low-income renters are hit the hardest by the lack of affordable housing. A staggering three-quarters of these households are cost-burdened. 1 When households spend this much of their income on housing, they have little left for life’s other necessities. They are typically unable to withstand a rent increase and may be one missed paycheck away from homelessness.
+
+1 Florida Housing Coalition, Home Matters for Florida Report 9 (2018).
+
+Intended Audience 
+As communities and local governments consider meeting the demand for affordable housing by tapping into the vast single-family housing stock to create 
+accessory dwelling units (ADUs), this document will be a reference guide. Elected and appointed officials, government employees and affordable housing 
+advocates will quickly understand the pros and cons of allowing and encouraging ADUs. They will be able to sort through the potential regulatory changes 
+and incentives to be implemented. 
+
+Local Government Planning Staff
+
+AHAC Members
+
+SHIP Administrators Local Government Administrators and Elected Officials
+
+Developers and Builders
+
+Affordable Housing Stakeholders
+
+#### Introduction
+
+Every county and entitlement community in Florida receives SHIP funds. Most of those communities are required to have an Affordable Housing Advisory Committee (AHAC) to make recommendations for regulatory reform at least once every three years. The Florida Housing Coalition provides training and technical assistance to counties and municipalities to help with the implementation of regulatory reform and land use planning tools to produce and preserve affordable housing. Florida Housing Coalition also developed a guidebook, Affordable Housing Incentive Strategies: A Guidebook for Af fordable Housing Advisory Committee Members and Local Government Staff, that provides information for each of the 11 affordable housing incentives that AHACs must consider. Permitting accessory residential units in residentially zoned areas has been on the list of statutorily enumerated items found in Section 420.9076 (4)(e), Florida Statutes, since the passage of the William E. Sadowski Act in 1992. And yet we find that, by and large, ADUs are not permitted in most residentially zoned areas. Encouragingly, what we have found, is that local government planners and affordable housing advocates would like to include ADUs in their affordable housing toolkit but could use more information about how to do it. This guidebook, produced by the Florida Housing Coalition, with funding from the Florida Housing Finance Cor poration’s Catalyst Program, provides local government planners and affordable housing advocates with the “How To”. Historically, ADUs were commonly used to mitigate the shortage of affordable housing, providing smaller rental dwelling units ancillary or secondary to the principal residence. In the 1950s and 1960s with the rise of suburbs catering to nuclear families, ADUs fell out of favor. However, changing demographic trends showing continu ing increases in smaller households, one-person households, elderly households, and households with disabled members are creating a surging interest in ADUs. ADUs can provide a stable affordable housing option for those in vulnerable housing situations. Persons living in ADUs benefit financially as the lower rents allow them an affordable option for decent, safe housing. Additionally, those renting out the ADUs also benefit financially from the rental income stream which often provides the addi tional income owners, particularly those on a fixed income, need to make ends meet. This guidebook addresses the challenges and benefits a community might face as it considers allowing the im plementation of ADUs; it presents a range of alternatives to consider and evaluate. There is a compilation of best practices and a model ordinance. A community considering implementation of regulations allowing ADUs can find suggestions for how to manage public participation. Additionally, there is a template local governments can use to help homeowners who want to create an ADU.
+
+#### Section Overview
+
+The remaining sections of the guidebook are described below.
+
+What are ADUs? Florida Statutes (Section 163.31771(2)(a)) define ADUs as “an ancillary or secondary living unit that has a separate kitchen, bathroom, and sleeping area existing either within the same structure, or the same lot, as the primary dwelling unit.”
+
+ADUs provide an affordable housing alternative by tapping into Florida’s large stock of single-family homes. Changing demographics make ADUs an attractive alternative to the elderly, persons with disabilities, families in transition, and to others needing safe, decent housing.
+
+Most regulatory barriers to ADUs deal with local land use regulation. This section explores those barriers and provides practical solutions to get beyond them.
+
+Local governments have the tools to fund and incentivize ADU development. Waiving impact fees and providing financial assistance can be the key to establishing ADUs.
+
+The increasing number of short-term vacation rentals through Airbnb and similar platforms can increase community concerns about the viability of long-term ADU rentals. While ADUs can be used as short-term rentals, through deed restrictions, local governments can require ADUs to be used as long-term rentals if the unit benefits from impact fee modifications or other financial assistance.
+
+II
+
+I
+
+III
+
+IV
+
+V
+
+Proposals to allow ADUs in single-family residential zoning districts may bring out neighborhood opposition. Local governments can ease community concerns through educational campaigns and by addressing legitimate objections.
+
+ADUs and Tiny Homes are alternative housing solutions. ADUs are always accessory to the primary unit. Tiny Homes can stand alone. As a result, different regulations apply.
+
+This section provides a best practices chart for a successful ADU program.
+
+Local land use regulations must be devised to allow ADUs to flourish broadly as a smart growth tool. With the right local ADU ordinance, ADU construction may increase to the community’s benefit. This section provides a Model Ordinance to encourage and facilitate ADU growth.
+
+Several local governments in Florida have model ordinances for ADU development. This section highlights several local ordinances with an analysis of each.
+
+ADU development is of great interest to local governments, policymakers, and think-tanks across the country. Other works have been written highlighting best practices and describing the benefits of ADUs.
+
+Allowing ADUs is only half the equation; this appendix provides a template for local governments to design an ADU Manual for homeowners. With this tool, local governments can help homeowners navigate the development, design, and operation of an ADU rental.
+
+VII
+
+VI
+
+IX
+
+VIII
+
+X
+
+A
+
+XI
+
+#### I. What are ADUs?
+
+1 Jaimie Ross, Accessory Dwelling Units: A Smart Growth Tool for Providing Affordable Housing, Housing News Network Journal Vol. 32, No. 2 (July 2016). 
+2 Sarah A. Gottlieb, Florida’s Accessory Dwelling Unit Laws: Mitigating Florida’s Housing Woes Through State-Encouraged Expansion of ADU Permitting, 
+46 Stetson L. Rev. 627, 630 (2017). 
+3 Fla. Department of Community Affairs, Accessory Dwelling Units: Report to the Florida Legislature 6 (2007). 
+4 Fla. Stat. § 163.31771(1) (2018). 
+5 Id. 
+
+Accessory dwelling units (ADUs) are additional living quarters typically on single-family lots that are independent of the primary dwelling unit. An ADU can be an apartment within a primary residence or it can be an attached or freestanding home on the same lot as the primary residence. 1
+
+Accessory dwelling units are commonly referred to as granny or mother-in law flats and are also sometimes re ferred to as accessory apartments, garage apartments, carriage houses, and backyard cottages. ADUs were a common feature of early 20th century development in America but their use dwindled with the onset of the sin gle-family suburb. ADUs were rarely included as an eligible use in municipal codes regulating land use, zoning, and general land development standards.
+
+Florida is one of only a few states to pass legislation that incentivizes local governments to create ADU permit ting ordinances. 2 In 2004, the Florida Legislature passed Section 163.31771 of the Florida Statutes to “promote the use of accessory dwelling units as a tool to help local communities address deficits in the supply of afford able rental housing for very-low-, low-, and moderate-income residents.” 3 In enacting this statute, the Legislature found that the median price of homes in Florida had increased steadily over the last decade at a greater rate of increase than the median income in many urban areas. 4 The Legislature also found that the cost of rental housing had increased steadily to the point that there was a “critical shortage of affordable rentals in many urban areas in the state.” 5 While the statute does not require local governments to adopt ADU ordinances, it does promote ADUs as a tool for affordable housing development for very-low, low, and moderate-income persons.
+
+HIGHLIGHTS Florida Statutes (Section 163.31771(2) (a)) define ADUs as “an ancillary or secondary living unit that has a separate kitchen, bathroom, and sleeping area existing either within the same structure, or the same lot, as the primary dwelling unit.” In this section, you’ll learn about:
+
+• Characteristics of ADUs 
+• ADU Regulations 
+
+Characteristics ADUs are smaller in size than the primary residence and are generally located toward the rear of the parcel. Typically, the owner lives in the primary residence, but unless restricted by the local government, the owner may choose to live in the smaller unit and rent out the primary residence. The ADU is ancillary and accessory to the primary unit and is often similar in appearance to the primary. An ADU is typically for one or two persons but may house more depending on its size. Under Section 163.31771(2)(a) of the Florida Statutes, ADUs are defined as “an ancillary or secondary living unit that has a separate kitchen, bathroom, and sleep ing area existing either within the same structure, or on the same lot, as the primary dwelling unit.” 6
+
+6 Fla. Stat. § 163.31771(2)(a) (2018).
+
+#### ADU Regulations
+
+Regulation of ADUs is within the purview of zoning and land use planning. Local governments can allow ADUs while providing helpful regulations to ensure that ADUs enhance rather than detract from the character of a neighborhood. Some examples, described more in depth later, include the following:
+
+Occupancy An ADU is more useful to homeowners if occupancy is not restricted to family members or temporary, non-paying guests.
+
+Parking Requirements A successful ADU ordinance balances congestion concerns and the concern that parking may be too burdensome for a homeowner due to cost and lot configuration.
+
+Size, Setback, Minimum Lot Size, and Other Structural Requirements These regulations can bring desired community aesthetics while also allowing the greatest number of lots to contain lawfully permitted ADUs.
+
+Construction Allowing the construction of ADUs concurrently with new primary residences or as part of a subdivision or master planned community maximizes the efficient use of land without needing additional infrastructure.
+
+#### II. The Value of Accessory Dwelling Units
+
+7 See Gottlieb, supra note 2, at 628-29; U.S. Census Bureau, Historical Census of Housing Tables (2011), https://www.census.gov/hhes/www/hous ing/census/historic/units.html. 8 Shimberg Center for Housing Studies, Overview of Housing in Florida 4 (2015), http://www.shimberg.ufl.edu/publications/tab2.pdf. 9 U.S. Census Bureau, America’s Families and Living Arrangements: 2012 (2013), https://www.census.gov/prod/2013pubs/p20-570.pdf.
+
+In a nation dominated by single-family units, many people struggle to find suitable living arrangements. 7 As of 2015, 64% of occupied units in the state of Florida were single-family homes. 8 ADUs capitalize on the promi nence of the single-family home by allowing more residents to live on single-family lots at an affordable price. Ad ditionally, the small size of the ADU reflects the changing demographics and needs of those looking for housing. The number of people per household in the United States continues to decrease. 9 Between 1970 and 2012, the average number of people per household declined from 3.1 to 2.6. With smaller households, due to a variety of factors, smaller housing options are in higher demand. For those that are not looking for a large single-family home and yet want to live in a residential neighborhood, the ADU is a great option.
+
+Accessory dwelling units are also beneficial for elderly and disabled populations that strive for continued indepen dence. An elderly or disabled individual could remain in their home and use an ADU for their caregiver. ADUs can also provide for family flexibility. With an ADU, a young adult could continue to live with their parents, but in a sep arate unit, as he or she works towards economic independence. When developed close to employment centers, an ADU can reduce a person’s reliance on transportation, providing additional benefits to society through environ mental and energy cost savings. ADUs also promote mixed-income communities where lower-income households can find an affordable home in an area that may have greater employment and educational opportunities.
+
+Affordability Accessory dwelling units are a valuable affordable housing tool for low- and moderate-income individuals. Because they do not require additional land or major new infrastructure, ADUs are cheaper to build than the traditional sin gle-family home. Further, the rental income from the ADU can subsidize the cost of the primary unit – making ADUs an affordable housing tool for both the renter and the homeowner. When both households are spending less of their income on housing, quality of life is improved, and more money is invested in the broader local economy.
+
+HIGHLIGHTS ADUs provide an affordable housing alternative by tapping into Florida’s large stock of single-family homes. Changing demographics make ADUs an attractive alternative to the elderly, persons with disabilities, families in transition, and to others needing safe, decent housing. In this section, you’ll learn about:
+
+• Affordability 
+• Care for the Elderly and Persons with Disabilities 
+• Family Flexibility 
+• Environment/Infill Development 
+• Integration of Income Levels 
+• Workforce Housing Development 
+
+Care for the Elderly and Persons with Disabilities 
+An ADU can be utilized so that an elderly or disabled individual who wishes to remain in their home can stay in their house and have their caregiver re 
+side in the ADU, or vice versa. Elderly and disabled individuals often struggle to live comfortably due to the traditional ways in which communities are 
+planned. 10 For these folks, ADUs can provide an opportunity to live on the same lots as their parents or other caregivers. 
+ADUs can assist the elderly to “age in place.” 11 ADUs are particularly well suited for lower-income elderly persons because in addition to receiving a 
+source of income they may not otherwise receive, the elderly homeowner may obtain companionship and needed services from the tenant in the ADU. 
+As the state’s lower-income elderly population continues to increase, ADUs can be a vital tool for meeting the increased need for elderly care. Family 
+members may also live in the ADU or primary unit to provide this care. 
+In 2000, AARP worked with the American Planning Association to develop a model state act and local ordinance as a resource for meeting the affordable 
+needs of elder Americans. Both organizations have endorsed ADUs as a valuable tool for elderly Americans. 12 
+
+Further, if an ADU is constructed for family members of at least 62 years of age, Section 193.703, Florida Statutes, provides that a county may provide for a reduction in the assessed value of homestead property after the new construction. 13 This section of the Florida Statutes implements section 4(f) of Article VII of the Florida Constitution. 14 This section was passed to encourage municipalities to provide tax incentives to homeowners who build living spaces for a parent or grandparent. 15 Thus, the Florida Statutes encourages ADUs as a housing alternative for the elderly.
+
+Family Flexibility 
+ADUs can also provide for family flexibility. If a young adult is not financially able to move out and wants to maintain a semblance of independence, he 
+or she can live in an ADU on the same lot as their parents – coming and going as they please and entertaining their own guests, while remaining tightly 
+bound to their family. 16 Once the young adult moves out, the parents can then utilize the ADU as an affordable rental unit for other individuals. An ADU 
+may also be used by older family members as a “granny flat.” In this arrangement, a family can care for their elderly parents or grandparents who are now 
+in close proximity. ADUs allow for family flexibility in that multiple family members can live on the same lot in separate units. A family member living in an 
+ADU also reduces the competition for the scarce inventory of affordable rental apartments in the community. 
+
+10 Gottlieb, supra note 2, at 627 (citing Robin Paul Malloy, Land Use Law and Disability: Planning and Zoning for Accessible Communities 3-5 (2015)). 
+11 AARP Livable Communities, Making Big Sense of Small Homes (Aug. 2015) https://www.aarp.org/livable-communities/network-age-friendly-communities/info-2015/domain-3-accessory-dwell 
+ing-units-portland-oregon.html. 
+12 AARP Livable Communities, Creating Room for Accessory Dwelling Units (Nov. 2017), https://www.aarp.org/livable-communities/housing/info-2015/accessory-dwelling-units-model-ordinance.html. 
+13 Fla. Stat. § 193.703 (2018). 
+14 Id. 
+15 Gottlieb, supra note 2, at 646. 
+16 Jonathan Coppage, Accessory Dwelling Units: A Flexible Free-Market Housing Solution, R Street Policy Study No. 89 (Mar. 2017), http://www.rstreet.org/wp-content/uploads/2017/03/89.pdf. 
+
+Environment/Infill Development 
+For many communities, undeveloped land close to the city center is hard to come by. ADUs are a smart growth tool because they are typically infill units 
+built where there is existing infrastructure, making greater use of the already developed land. When ADUs are built near employment centers, more peo 
+ple will have the opportunity to live closer to where they work – reducing transportation costs and the associated environmental impacts. 
+Additionally, as ADUs are smaller than single-family or even some multi-family units, their overall impact on the environment is also lessened. It takes less 
+building material to construct an ADU and costs less in utilities for daily operation. 
+Integration of Income Levels 
+As the former Florida Department of Community Affairs, now known as, Department of Economic Opportunity, noted in its 2007 report to the Florida 
+Legislature, ADUs can be integrated into a community resulting in the development of “mixed-income neighborhoods rather than enclaves of affordable 
+housing.” 17 Integrating lower-income families within mixed-income areas can create positive benefits in terms of employment, mental health, and educa 
+tional opportunities. 18 With the creation of ADUs as infill development in single-family districts, lower-income households can enjoy a greater quality of 
+life in areas of town which may have previously been closed off to them. 
+Workforce Housing Development 
+With ADUs, the lower paid workforce can live closer to their places of work. Rather than being forced to commute long distances for their jobs, people 
+can live affordably within the community. Because ADUs do not require additional land, they can be incorporated into existing, built-out neighborhoods 
+in parts of the community that are closer to employment centers. Proximity to employment can result in very substantial savings when it is possible for a 
+two-person household to share one car and save the expense of owning a second car. 
+17 Fla. Department of Community Affairs, supra note 7, at 6. 
+18 Diane K. Levy et al., Effects from Living in Mixed-Income Communities for Low-Income Families, Urban Inst. (Nov. 2010), https://www.urban.org/sites/default/files/publication/27116/412292-Effects 
+from-Living-in-Mixed-Income-Communities-for-Low-Income-Families.PDF. 
+
+Affordability
+
+Accessory dwelling units are a valuable af fordable housing tool for low- and moder ate-income individuals. Because they do not require additional land or major new infra structure, ADUs are cheaper to build than the traditional single-family home. Further, the rental income from the ADU can subsidize the cost of the primary unit – making ADUs an affordable housing tool for both the renter and the homeowner. When both households are spending less of their income on housing, quality of life is improved, and more money is invested in the broader local economy.
+
+Care for the Elderly & Persons with Disabilities
+
+An ADU can be utilized so that an elderly or disabled individual who wishes to remain in their home can stay in their house and have their caregiver reside in the ADU, or vice versa. Elderly and disabled individuals of ten struggle to live comfortably due to the traditional ways in which communities are planned. For these folks, ADUs can provide an opportunity to live on the same lots as their parents or other caregivers.
+
+Family Flexibility
+
+ADUs can also provide for family flexibility. If a young adult is not financially able to move out and wants to maintain a semblance of independence, he or she can live in an ADU on the same lot as their parents – coming and going as they please and entertaining their own guests, while remaining tightly bound to their family.
+
+#### The Value of ADUs
+
+ADUs provide an affordable housing alternative by tapping into Florida’s large stock of single-family homes. Changing demographics make ADUs an attractive alternative to the elderly, persons with disabilities, families in transition, and to others needing safe, decent housing.
+
+Environment/Infill Development
+
+For many communities, undeveloped land close to the city center is hard to come by. ADUs are a smart growth tool because they are typically infill units built where there is ex isting infrastructure, making greater use of the already developed land. When ADUs are built near employment centers, more people will have the opportunity to live closer to where they work – reducing transportation costs and the associated environmental impacts.
+
+Integration of Income Levels
+
+As the former Florida Department of Commu nity Affairs noted, now the Florida Department of Economic Opportunity, noted in its 2007 report to the Florida Legislature, ADUs can be integrated into a community resulting in the development of “mixed-income neighbor hoods rather than enclaves of affordable hous ing.” Integrating lower-income families within mixed-income areas can create positive ben efits in terms of employment, mental health, and educational opportunities.
+
+Workforce Housing Development
+
+With ADUs, the lower paid workforce can live closer to their places of work. Rather than being forced to commute long distances for their jobs, people can live affordably within the community. Because ADUs do not re quire additional land, they can be incorpo rated into existing, built-out neighborhoods in parts of the community that are closer to employment centers.
+
+#### III. ADUs in Florida: Regulatory Barriers and Practical Solutions
+
+19 Kol Peterson, Backdoor Revolution 135 (Accessory Dwelling Strategies, LLC 2018).
+
+This section describes some of the barriers to ADU development and offers solutions to overcome these barriers. Most of the barriers relate to local land development regulations. There may be aspects of a local government’s land development regulations that are so restrictive that few permitted ADUs can be built. 19
+
+As of this writing, 16 of the 67 Florida counties did not address any accessory dwelling unit – a guest house, accessory apartment, ADU, cottage house, and other similar units -- in their land development codes. For the remainder of counties that did address some type of ADU, most of them had onerous use restrictions. Of the counties that mentioned a type of ADU, at least 25 of them explicitly bar their use for long-term rental purposes or for use by persons that are not an immediate family member or worker. Only 20 counties speak of ADUs as a tool for long-term rental housing. Virtually all counties, except for a few, require the owner to occupy the principal dwelling if the ADU is used. One county requires lot sizes to be above 15,000 square feet before allowing an ADU. Further, at least 12 counties explicitly do not allow ADUs to be built in single-family zoning districts. Several jurisdictions allow ADUs only as a conditional use. These types of barriers have the effect of restricting the ADU as a tool for affordable housing development.
+
+Florida cities tend to have more flexible ADU ordinances than counties. Of the 15 most populous cities in Florida, 11 of them explicitly allow ADUs in single-family districts (one of these cities only allows ADUs on a conditional use basis). Although Florida cities allow ADUs more broadly, issues exist regarding minimum lot size, ADU size, parking, owner-occupancy, and other standards. ADU regulations should be as flexible and open as possible to give landowners the freedom to utilize their property as a site for affordable housing development. If restrictions are too burdensome, landowners will be deterred from building ADUs to the community’s detriment.
+
+HIGHLIGHTS Most regulatory barriers to ADUs deal with local land regulations. This section explores those barriers and provides practical solutions to get beyond them. This section will discuss and offer recommendations for:
+
+• Euclidean Zoning & the Single-Family District 
+• Owner-Occupancy Restrictions 
+• Long-Term Rental Use Restrictions 
+• As-of-Right versus Conditional Use 
+• Size, Density, & Other Structural Requirements 
+• Utility Hookup Requirements 
+
+Barrier: Excessive minimum lot size requirements Solution: Lower minimum lot size requirements
+
+Barrier: 
+Prohibition of non-family members 
+from occupancy 
+Solution: 
+Allow ADUs to be rented on the 
+long-term market to any tenant 
+
+##### Regulatory Barriers
+
+Barrier: 
+Euclidean Zoning: premise of separation of incompatible uses 
+by zoning restriction 
+Solution: 
+F.S. 163.1777: ADUs are compatible with single family residential uses. 
+Allow ADUs in all single-family districts. 
+Barrier: 
+ADUs not included as an allowable use in land 
+development codes 
+Solution: 
+Incorporate ADUs into land use regulations by 
+adoption of ADU specific ordinance 
+Barrier: 
+ADUs permitted but overly restricted as to become impractical or impossible 
+Solution: 
+Reduce minimum lot size and amend setback and other structural 
+requirements to allow the most possible lots to contain ADUs 
+
+Barrier: Prohibition of ADU for long-term rental Solution: Allow ADUs to be rented on the long-term market
+
+Barrier: 
+Requirement for property owner 
+to occupy the principal residence 
+Solution: 
+Allow property owner to occupy 
+the ADU by right 
+Barrier: 
+ADUs permitted only as 
+conditional use 
+Solution: 
+Allow ADUs as a permitted 
+use 
+Barrier: 
+Residential land uses are based on density (dwelling units/acre). When 
+ADUs are counted as a dwelling unit the parcel might be over density and 
+the ADU may be disallowed. 
+Solution: 
+Exempt ADUs from density calculations 
+Barrier: 
+New construction ADUs are assessed an impact fee comparable to a 
+multi-family dwelling unit. 
+Solution: 
+Waive or modify impact fees for ADUs 
+Barrier: 
+Parking requirements that may render development impractical 
+Solution: 
+Require off-street parking only if on-street parking is not available within 
+a certain number of feet from the parcel. If off-street parking is required, 
+utilize stacked parking (one car in front of the other) or other design 
+solutions to allow parking in areas other than designated driveways. 
+
+##### Market Type Barriers
+
+Barrier: Perception that ADUs decrease property values Solution: Educate residents that ADUs do not decrease property values and may increase these values.
+
+Barrier: Vacation Rental concerns Solution: Enter into agreements with homeowners that receive governmental incentives to rent ADUs on the long-term market
+
+#### Euclidean Zoning and the Single Family District
+
+Certain zoning and land use regulations can be detrimental obstacles to ADU development. Traditional “Euclidean” zoning separates what are thought 
+of as incompatible land uses from being on nearby or the same lots. 20 For example, a local government may not consider a smaller, second housing unit 
+to be compatible with a traditional single-family land use designation. This type of policy is a barrier to ADU development. As evidenced by the Florida 
+Legislature 21, ADUs are compatible with single-family homes. Local governments should treat them as such. 
+A neighborhood zoned as Single Family Residential, for example, would generally allow only one single-family dwelling unit per lot. Historically, without 
+explicit allowances for ADUs, if two or more residences are situated on a single lot, they would need to be in a more intensive residential zone, such as one 
+that permits duplexes or multi-family housing. Today, some single-family zoning districts may permit an accessory dwelling unit but mandate that certain 
+requirements are met or that special circumstances be shown to warrant the use. 
+Accessory dwelling units should be permitted in all single-family zone districts. As mentioned in the above section describing the need for ADUs, as of 
+2015, 64% of occupied units in the state of Florida were single-family homes. However, traditional single-family zoning procedures no longer fit the needs 
+of the newer generations of our communities as more young people are looking for smaller, affordable places to live with access to opportunity. 22 These 
+same zoning procedures restrict the needs of Florida’s growing elderly population – a population that could use ADUs and other smaller units to help them 
+age in place. ADUs capitalize on the dominance of the single-family home by providing an additional family or person’s access to an affordable dwelling 
+unit on the same lot – typically in areas of our communities that are closer to centers of opportunity. A regulatory atmosphere that increases the number of 
+ADUs will bring a positive impact to Florida’s housing stock and to our communities. 23 
+
+Barring ADUs from single-family districts severely curtails their prevalence from the outset. If local governments are concerned about ADUs changing the character of the single-family district, they should consider reasonable minimum lot size, setback requirements, or other reasonable structural regulations rather than an outright ban. Allowing ADUs in single-family districts is a necessity if the benefits of ADUs are to be realized. As already noted, many house holds believe they need ADUs for economic or family reasons. If ADUs are not permitted, some households may erect them without pulling building per mits and create potentially serious life and safety hazards for themselves and their neighbors. A local government that provides sensible ADU regulations is likely to be protecting the welfare of the community.
+
+Recommendation • Allow ADUs as a permissible use in all single-family districts.
+
+20 Ross, supra note 1, at 2. 
+21 Fla. Stat. § 163.31771 (2018). 
+22 Gottlieb, supra note 2, at 633. 
+23 See David Garcia, ADU Update: Early Lessons and Impacts of California’s State and Local Policy Changes, UC Berkeley Terner Ctr. for Hous. Innovation (Dec. 2017). 
+
+#### Owner-Occupancy Restrictions
+
+Much has been written about the dangers of a strict owner-occupancy requirement for accessory dwelling units. A strict policy may dis-incentivize ADU 
+development and foreclose many of the benefits they provide. 24 Many jurisdictions in Florida currently require that the owner occupy the primary unit if an 
+ADU is used on the property. Others require that the ADU only be used by family members or non-paying guests. Some, however, are more flexible and 
+allow the owner to occupy either the primary unit or the ADU. 
+By allowing homeowners to live in the ADU and rent out the primary dwelling, local governments grant them the option to earn more income on the prima 
+ry unit and gain additional flexibility in their living arrangements. 
+Some cities do not require owner-occupancy at all. Portland, Oregon is one of those cities. Just as local governments do not mandate that all homeowners 
+be on the property of single-family homes that they rent out, Portland and others take the position that local government should not mandate that owners 
+live on the property of ADUs that they rent. 
+Local governments and communities may fear that a lack of restriction on owner-occupancy requirements may cause neighboring owners of single-family 
+homes to object to having renters in their neighborhood. Communities may perceive a threat to their property values if some lots have two houses where 
+only one is used by the homeowner. However, the addition of a lawfully permitted ADU may increase a property’s value – as there is an additional unit for 
+the homeowner to rent out for income. There are also reasonable concerns that without the homeowner present in the primary unit, ADU development 
+may cause unwanted nuisances. 
+Requiring an owner to be on site may discourage ADU development by negatively impacting that homeowner’s flexibility to rent their property and ulti 
+mately sell their property. If there are strict owner-occupancy requirements, a homeowner may be forced to sell their entire property instead of having the 
+option to separately rent out the units. If a homeowner is unsure of the return on their investment before building an ADU because of the possible effect of 
+owner-occupancy requirements, they might not build an ADU at all. 
+
+Recommendations
+
+• An owner-occupancy requirement should be flexible enough to encourage ADU creation. At a minimum, the owner should be allowed to occupy the ADU. 
+• Resolve community concerns through other land use controls and code enforcement mechanisms that are less onerous than owner-occupancy restrictions. Minimum lot sizes, setback requirements, and other land use controls can work to ensure that areas with ADUs are in keeping with the character of the community. 
+
+24 See, e.g., Peterson, supra note 19; Coppage, supra note 16, at 6.
+
+#### Long Term Rental Use Restrictions
+
+In our survey of Florida counties, of the counties that regulate accessory dwelling units in some fashion, at least 22 do not allow ADUs to be rented long term. These counties only allow ADUs for temporary guests, family members, caretakers, laborers, and in conjunction with certain commercial, industrial, or agricultural uses. ADUs are explicitly allowed to be rented as long-term units in only 21 counties.
+
+Recommendations:
+
+• Allow accessory dwelling units to be rented to whomever the homeowner chooses to live in the ADU. 
+• Allow accessory dwelling units to be rented long-term. 
+
+#### As-of-Right vs. Conditional Use
+
+Another barrier to ADU development occurs when ADUs are only allowed as a conditional use rather than “as-of-right.” If an ADU is a conditional use, a public hearing is required, and the local government undergoes a discretionary review to determine if the ADU can be constructed in a particular area. While a required public hearing may be good for educating the public on the impacts of ADU development and for providing a forum for neighborhood input, the onerous, unpredictable, and costly nature of the conditional use process may discourage homeowners from constructing ADUs. When allowed as a permitted use, the development review process is more predictable, as requirements are established up-front. In a typical conditional use process, the homeowner may spend thousands of dollars on application fees, designs, and other requirements, and may still not be approved to add an ADU. As it is, when ADUs are rented at market-rate value, it may take years for the homeowner to break even on their investment. With the additional time and monetary burden of the conditional use process, homeowners may be dissuaded from constructing ADUs entirely or choose to construct illegal ADUs.
+
+Recommendations
+
+• Allow ADUs as a permitted use in all single-family residential land use classifications. 
+• To encourage ADUs as a tool to increase the housing stock, establish transparent and predictable requirements as opposed to a conditional use process that may be too unpredictable. 
+
+#### Size, Density, and Other Structural Requirements
+
+Minimum lot size, setbacks, and other structural requirements can be used to achieve a compromise with neighborhood concerns about ADU develop ment. Each area of the state is different and providing a one-size-fits-all policy in this area will not be feasible.
+
+1. Minimum Lot Size There is one county in Florida that requires a parcel of land to be a minimum of 15,000 square feet for a homeowner to lawfully construct an ADU. This effectively bars ADU development on many single-family lots. Austin, Texas, for example, changed its code in 2015 to reduce the minimum lot size requirements from 7,000 square feet to 5,750 square feet. This increased the number of lots that could have an ADU by 8,900. 25
+
+Recommendations:
+
+• Local governments should study the current single-family home lot sizes of their jurisdiction and taken with public input, reach a solution that sat isfies residential concerns while also allowing ADUs to flourish broadly. Minimum lot size requirements should be constructed to allow the most possible lots to contain a lawful ADU. 
+
+2. Size In determining the allowable size of an ADU, most local governments regulate by reference to the ADU being a set maximum percentage of square footage in comparison to the primary unit. Maxing the size limit of an ADU in relation to the primary unit may have the effect of restricting the use of ADUs on smaller single-family lots. For example, if a local government restricts the size of an ADU to no more than 25% of the principal and a principal unit is 1,750 square feet, the ADU could only be roughly 440 square feet in size. This would not be enough for a two-person household to occupy the ADU safely and comfortably. From our study of ADU ordinances and of ADU advocates across the country, it is recommended that there be around 400 square feet of living space per person. Therefore, to target ADUs as a tool for long-term affordable rental housing, a maximum square footage requirement should be from 800-1200 square feet. For sizable lots that can contain a larger ADU, local governments should make allowances for a larger unit. Recommendations:
+
+• Use a set number of allowable square footage rather than a rule that mandates the ADU be a certain proportion of the primary unit. 
+• Allow ADUs up to 1,200 square feet with additional size allowances depending on lot size. 
+
+25 Tyler Whitson, Council Loosens Rules on Accessory Dwelling Units, Austin Monitor (Nov. 20, 2015), https://www.austinmonitor.com/stories/2015/11/council-loosens-rules-accessory-dwelling-units/.
+
+3. Density Residential land uses are based on density. If ADUs are counted in the density calculation, this may push the parcel over the density restrictions for a particular zone and disallow an otherwise lawful ADU from being built. Recommendations:
+
+• Exempt ADUs from density calculations. 
+
+4. Setback Requirements Any restriction on physical locational density should be dictated by setback and minimum lot size requirements. Setback requirements are a tool local governments can use to forge a compromise between neighboring landowners that may be concerned about ADU development. As with other structural regulations, setback requirements should not be designed in a manner that discourages ADU development. If a setback requirement is too stringent, the homeowner may be forced to build a smaller ADU and miss out on the opportunity to use it as a long-term rental for a two-person household. Most counties in Florida simply require the ADU to satisfy the setback requirements of the principal dwelling. Some local governments have different setback rules depending on if the door of a detached unit faces a side street or other properties. These are reasonable offerings. Recommendations
+
+• For maximum flexibility in setback standards, consider zero-lot line configurations in which an ADU would be allowed up to, or very near to, the edge of property lines. 
+• To ensure smaller lots are not inadequately burdened by setback requirements, utilize variance procedures to amend certain setback rules. 
+
+#### Utility Hookup Requirements
+
+Requiring an ADU to hookup to its own water, sewer, or other utility may be overly burdensome and deter lawful ADU development. Local governments can facilitate an application to attach to the primary unit’s utilities to save the homeowner thousands of dollars in costs.
+
+Recommendations • Allow the ADU to file an application to connect to the utilities of the primary residence.
+
+#### Parking Requirements
+
+Parking requirements can be particularly burdensome to ADU development and if too stringent, may serve to discourage the construction of ADUs. Parking spaces may be very costly for a homeowner and are a challenge from a planning perspective. For smaller lots, a requirement for additional parking could render an ADU impractical – as a lot may not have enough space for both an ADU and a parking spot. These spots can cost thousands of dollars to construct -- pushing the costs on to the renter and lowering the prospects for an ADU to be used as an affordable unit. One local government in Florida does not require a parking space for ADUs that are 500 square feet or less. One county reduces parking require ments for multifamily developments that have units of 900 square foot or less. These are good compromises if residents are concerned with on street parking congestion. California has a law stating that local governments may not impose parking requirements for an ADU if the ADU is located “within one-half mile of public transit,” is “part of the existing primary residence or an existing accessory structure,” or when “on-street parking permits are required but not offered to the occupant of ” the ADU or if “a car share vehicle [is] located within one block” of the ADU. 26 Most county ordinances in Florida that mention parking requirements have a “one spot per ADU” requirement. In all likelihood, ADUs will be dispersed throughout neighborhoods – they will not be centered on one particular street. Therefore, it is likely that on street parking could satisfy the parking needs of an ADU without overly congesting the neighborhood and without burdening the homeowner with the costs of an additional parking space. Alternatively, design solutions might be considered to provide additional parking. For instance, stacked parking spaces (one in front of the other) or allowing parking in other areas of the parcel (not just the driveways) can be considered. If parking is a genuine issue, the local government should still avoid a “one spot per ADU” rule and consider requiring parking for locations where it may be impractical to park on the street. It is important to strike a balance between the cost burden placed on homeowners and genuine street congestion concerns.
+
+Recommendations
+
+• When devising parking requirements, study the impact that permitted ADUs have on the parking supply. A blanket “one spot per ADU” rule without an impact study may hinder ADU development. For example, require one off-street parking spot only if there is no available on-street parking within a certain number of feet from the parcel. 
+• If one parking space is generally required, consider exempting ADUs 500 square feet or less. 
+• After successful implementation of an ADU ordinance, continually monitor parking impacts to assess congestion concerns. 
+
+26 Cal. Gov’t Code §§ 65852.2(d)(1)-(5).
+
+#### IV. Funding and Incentivizing ADU Development
+
+Local governments have the tools to assist in funding and incentivizing ADU development. This section provides some ideas about how local governments can help homeowners create ADUs. As discussed throughout this Guidebook, ADUs are an excellent tool to expand and diversify a community’s housing stock. To increase their prevalence, communities should consider ways to incentivize ADU development.
+
+Impact & Applicant Review Fees The current standard practice in Florida for assessing impact fees on an ADU is to charge the unit as a multi-fam ily unit. If a homeowner is required to pay the same impact fee for their ADU as a developer would pay for a multi-family unit of any size, the homeowner may be discouraged from ADU development. Further, if a home owner is required to pay the same impact fee for a 500 square foot as an 800 square foot ADU, a homeowner may be inclined to construct the larger unit instead – deterring a smaller, lower-priced ADU from being built.
+
+A solution offered by Hillsborough County, provides for a fixed “de minimus” impact fee of $100. If not used for long-term affordable housing and if the local government does not want to waive impact fees entirely, ADUs should be assessed by square-footage rather than by unit. 27 With an assessment by square-footage, a developer of a smaller ADU would pay less in impact fees than a developer of a larger ADU. Any waiver or reduction of im pact fees can be paid for by the local government’s affordable housing fund or other revenue sources.
+
+Local governments can also streamline the review and permitting process to save itself administration costs and save the homeowner both time and money. By streamlining and removing certain development review pro cesses, the cost of development should go down. For example, Leon County passed an ordinance in 2016 that eliminated several steps in the development review process which saved applicants a minimum of $1,697 in per mitting fees. 28 Additionally, this Ordinance had the planned effect of reducing ADU approval time by more than 45%. Similar expedited permitting processes should be considered in every local government.
+
+27 See Florida Housing Coalition, Affordable Housing Incentive Strategies: A Guidebook for Affordable Housing Advisory Committee Members and Local Government Staff, available at http://www.flhousing.org/wp-content/uploads/2012/03/AHAC-Guidebook-2017.pdf. 28 Leon County, Florida Board of County Commissions Regular Meeting Minutes 360 (May 10, 2016), available at http://cvweb.clerk.leon.fl.us/finance/ board_minutes/minutes/pdfs/20160510%20Official%20Minutes.pdf.
+
+HIGHLIGHTS Local governments have the tools to fund and incentivize ADU development. Waiving impact fees and providing financial assistance can be the key to establishing ADUs. This section will offer insight on:
+
+• Impact & Applicant Review Fees 
+• Financial Assistance 
+• Marketing the ADU Option to Homeowners 
+
+Recommendations
+
+• Waive or otherwise modify impact fees for ADUs that are used for long-term affordable housing or charge a “de minimus” impact fee rate of $100. 
+• If not used for long-term affordable housing, assess impact fees. 
+• Another possible, but less desirable alternative, is to charge an ADU in the same impact fee category as a mobile home. 
+• Streamline and create transparent ADU development processes to the greatest extent possible to lower administration and development costs. 
+Financial Assistance 
+Homeowners who want to create an ADU may not have all the funds they need to build the unit. Through the SHIP program, local governments could 
+explore the possibility of establishing an affordable housing strategy to provide a subsidy for ADUs for very-low, low-, or moderate-income households. 
+The subsidy would be secured with a recorded lien on the rental property to ensure than an affordable rent is charged for a period of at least 15 years. 
+Residents of the ADUs would be income certified yearly. Local governments should be able to loan funds to homeowners for the construction of ADUs if 
+the homeowner utilizes the ADU for long-term affordable housing. A loan program for creating ADUs that has a long history of implementation is found 
+in Santa Cruz, California. 
+To assist homeowners develop rental ADUs for persons at 80% or below the City’s median household income, the City of Santa Cruz, California has an 
+ADU loan program by which homeowners can receive loans of up to $100,000 at a 4 ½% interest rate for ADU construction. 29 The County of Santa Cruz, 
+California allows for forgivable loans of up to $40,000 at a 3% interest rate. 30 To receive the financing at the City level, the homeowner must agree to keep 
+the rental unit affordable to low-income tenants for a period of at least 15 years. At the County, the homeowner must enter into a deed restriction for a 
+period of 20 years that keeps the ADU or main house at a cost affordable to low-income households. If the homeowner backs out, they must repay the full 
+amount of the loan plus interest. With loan and deed restrictions and the threat of default, local governments can ensure that ADUs they assist financially 
+are used for long-term affordable rental housing for low- to moderate-income persons. 
+
+Recommendations
+
+• Develop a program which loans funds to homeowners who agree to keep their ADU affordable to lower-income tenants. These funds can be derived from the local government’s affordable housing funds. Upon repayment, these funds can be recycled for the ADU program or used for other affordable housing purposes. Local governments can be creative in how to raise additional revenue for their affordable housing funds to help finance ADU development. 
+29 City of Santa Cruz, CA, Accessory Dwelling Units: Loan Program, http://www.cityofsantacruz.com/Home/ShowDocument?id=3700. 
+30 County of Santa Cruz, CA, Accessory Dwelling Unit Forgivable Loan Program (Apr. 2018), available at http://sccoplanning.com/Portals/2/County/adu/Forgivable%20Loan%20Program.pdf. 
+
+Marketing the ADU Option to Homeowners 
+If a local government allows ADUs by right in all single-family zones or otherwise makes positive changes to facilitate the development of ADUs, the next 
+critical step is to ensure that developers and homeowners are aware that they now have the option of building ADUs. An advertising campaign to educate 
+the community about the benefits and the process for building ADUs is a key component for increasing the stock of ADUs. 
+Building an ADU may be one of the largest projects a homeowner undertakes on his or her property. Further, most homeowners may be unfamiliar with 
+what it takes to build an ADU on their lot. Therefore, local governments could provide educational materials to ease the learning curve for homeowners 
+interested in ADU development. This may include an easy-to-navigate checklist of the application development review process, development cost pro 
+jections, zoning and land use regulations, and ADU design considerations. 
+The City of Santa Cruz, which proves to be a model for ADU regulation across the country, provides an ADU manual and a set of ADU design prototypes 
+to encourage development. 31 The manual connects homeowners to local architects with ADU construction experience. These materials make it easier 
+for homeowners to construct ADUs. The current design prototypes manual offers seven working drawings by local architects to be used as templates by 
+homeowners. The ADU manual contains a step-by-step guide on how to plan, design, and obtain permits for an ADU. Appendix A of this Guidebook 
+contains a template Manual for local governments to use to educate homeowners. 
+
+Recommendations
+
+• Provide user-friendly brochures and information to homeowners on the benefits of ADUs and the rules and regulations that apply to ADUs. 
+• Provide education on what financial resources are available to assist in developing an ADU. 
+• Connect homeowners to local architects with ADU expertise. 
+• Provide education on how to manage an ADU including landlord tenant laws, leasing, and maintenance. 
+
+31 City of Santa Cruz, CA, ADU Prototype Architects, http://www.cityofsantacruz.com/government/city-departments/planning-and-community-development/programs/accessory-dwelling-unit-develop ment-program/adu-prototype-architects.
+
+#### V. Concerns Over ADUs as Short-Term Vacation Rentals & Student Housing
+
+32 Fla. Stat. § 509.032(7)(b) (2018). 
+33 Id. 
+34 Fla. HB 987 (2018), available at https://www.flsenate.gov/Session/Bill/2019/00987; Fla. SB 1400 (2018), available at https://www.flsenate.gov/ 
+Session/Bill/2018/01400. 
+
+There are justifiable concerns about the use of ADUs as short-term vacation rentals. Some critics argue that the use of ADUs for Airbnb and other vacation rental platforms poses a serious threat to their beneficial use as long term rental units, places for elderly housing, and family flexibility. The proliferation of short-term vacation rentals may negatively affect the supply of long-term affordable housing for residents of the community.
+
+As of this writing in 2019, local governments may not create a new law, ordinance, or regulation prohibiting vaca tion rentals or regulating the duration or frequency thereof. 32 This statutory provision, however, does not apply to any local law, ordinance, or regulation adopted on or before June 1, 2011. 33 Thus, unless already placed in a local government’s code before this grandfathered date, a local government may not prohibit ADUs as short-term vacation rentals through the zoning code. Local governments can, however, regulate short-term rentals through life safety and building codes.
+
+For the past several Legislative sessions (including the 2019 Session), there have been bills to preempt local governments from regulating short-term rentals altogether. 34 Thus, local governments should be tuned in to how they may or may not regulate short-term vacation rentals.
+
+Options for Local Governments to Regulate the Use of ADUs One way to overcome the short-term vacation rental preemption, is by providing local government assistance that comes with a land use restriction agreement to ensure that ADUs are used for affordable housing. Land use restriction agreements, also known as deed restrictions, can be an important tool if the ADU is built using gov ernmental assistance or through a modification of impact fees. For example, a local government could condition the reduction of impact fees on an ADU’s use as a long-term affordable housing unit. In this scenario, if the ADU is used for short-term vacation rental, the homeowner will have violated the deed restriction and will have to repay the full cost of the impact fees, and perhaps suffer additional consequences imposed by the local government.
+
+HIGHLIGHTS The increasing number of short-term vacation rentals through Airbnb and similar platforms can increase community concerns about the viability of long-term ADU rentals. While ADUs can be used as short-term rentals, through deed restrictions, local governments can require an ADU to be used as a long term rental if the unit benefits from impact fee modifications or other financial assistance.
+
+If not done already, local governments should enter into tax agreements with Airbnb and other short-term vacation rental platforms to recover Tourist Development Tax revenue. Under current law, local governments can only use this tax revenue for authorized uses. Affordable housing is not an authorized use. If the Tourist Development Tax statute is amended to allow local governments to use this revenue for affordable housing, they can use the tax revenue from short-term vacation rent als towards affordable housing purposes. 35 These rentals are booming, and local governments should be allowed to use this new stream of revenue for affordable housing. For exam ple, in 2017, Broward, Brevard, Hillsborough, and Polk County received $1.87 million, $419,000, $562,000, and $610,000 in tax revenue from Airbnb, respectively. 36 If local governments are concerned about the proliferation of ADUs as short-term vacation rentals (and in regards to affordable housing broad ly), they should be able to use the tax revenue from vacation rentals for incentivizing affordable long-term ADUs in the form of loans, reduction of impact fees, and other costs associated with development. Legislation amending the Tourist Develop ment Tax statute would allow local governments to address this issue. Ultimately, although strict owner-occupancy requirements are not advisable if the ADU is used for affordable housing, strict requirements can be necessary if the ADU is used as a short term vacation rental.
+
+35 See Fla. Stat. § 125.0104 (2018). The legislation would amend this statute to al low local governments to use revenue from a Tourist Development Tax for affordable housing purposes. 36 Florida Trend, Airbnb Releases 2017 Florida Tax Report (Feb. 13, 2018), http:// www.floridatrend.com/article/23942/airbnb-releases-2017-florida-tax-report.
+
+#### VI. How to Combat Potential Neighborhood Opposition
+
+37 Jaimie Ross, Avoiding and Overcoming Neighborhood Opposition to Affordable Rental Housing, Nat’l Low Income Hous. Coal. Advocates’ Guide 
+(2018), available at http://nlihc.org/sites/default/files/AG-2018/Ch02-S10_Avoiding-Opposition_2018.pdf. 
+38 Id. 
+
+The construction of new accessory dwelling units in single-family districts may bring neighborhood or commu nity resistance. The owners of single-family homes may object to having renters in their neighborhood; they may fear increased traffic and parking, or perceive a threat to their property value. 37 The Not in My Backyard (NIMBY) syndrome connotes objections made to stop the development of affordable or otherwise new housing for rea sons such as fear and prejudice. 38 NIMBYism presents an obstacle to a successful ADU regulatory structure and can result in fewer affordable housing options at a time when Florida is in desperate need of more rental housing.
+
+Education Campaign The first thing the local government should do to ease neighborhood opposition toward ADU development is to educate the community about the benefits of ADUs. The more informed the public, local government staff, and elected officials are about the need for affordable rental housing and how ADUs can ease that need, the more leverage advocates will have to advance the development of ADUs.
+
+The local government should be equipped with current data about its specific needs for affordable housing and how ADUs can be used to help community members. Here are some of the questions the local government should consider:
+
+• How many residents are cost-burdened? 
+• How many cost-burdened residents are forced to live far away from the places they work? 
+• How many of these cost-burdened residents are essential members of the lower-paid workforce, such as home health aides? 
+• How much of the community is zoned single-family? 
+• If ADUs were allowed in all single-family districts, how many new affordable rental units would be possible? Anecdotal information about the successes of existing ADUs as sources of affordable rental housing, elderly and disabled care, and/or workforce housing can support this message. 
+
+In shaping the message, it is important to demonstrate that ADU development may not be best for everyone;
+
+HIGHLIGHTS Proposals to allow ADUs in single-family residential zoning districts may bring out neighborhood opposition. Local governments can ease community concerns through educational campaigns and by addressing legitimate objections. This section will offer some solutions such as:
+
+• Education Campaign 
+• Garner Support from a Broad Range of Interests 
+• Address All Legitimate Opposition 
+
+some people do not want to utilize their backyards for affordable rental housing. Some folks may only want to utilize their ADUs for family members, guests, or elderly housing and not have their ADUs on the public market place. Sensible ADU regulations would go a long way to help households help themselves to solve their own affordable housing problems by providing additional living quarters to family members. It is important to make clear that thousands of ADUs will not sprout up overnight from the successful implementation of an ADU ordi nance.
+
+The local government should share these points with the community and help residents understand that ADUs will not dramatically alter the landscape of existing neighborhoods. ADU development will be relatively slow, scattered throughout communities, and if a successful ordinance is implemented, local governments can assure their constituents that they will undergo a study to assess the strengths and weaknesses of ADU development.
+
+The City of Boston, Massachusetts provides a good method by which to study ADU impacts. Several years ago, Boston began allowing what are called “micro-units” – units with a minimum size of 350 square feet -- in a limited area of the city. Simultaneously, the City teamed up with Harvard University’s Rappaport Institute to study the impacts of the first batch of units. 39 Local governments in Florida might consider a similar type of study with Uni versity partners in Florida to measure the results of an ADU program.
+
+Garner Support from a Broad Range of Interests Local governments should partner with local organizations that are interested in affordable housing develop ment. They should look for members of the business community, clergy, social services agencies, and others who are outspoken about the need for affordable housing and form partnerships to support ADU development. The media can also be a crucial ally. Local governments should contact the media so the public can better under stand ADUs and their development processes, their public purpose, and the population served.
+
+With these allies, the local government will be in a better position to convince their community that ADUs are a beneficial housing tool. For instance, nurses and public safety workers can attest to the need for housing closer to the places in which they work – a need which ADUs in single-family districts can address. Elderly individuals can describe how an ADU may have helped them age in place. With allies from a broad range of interests, more connections between ADU development and community concerns can be voiced.
+
+39 Casey Ross, Housing-Starved Cities Seek Relief in Micro-Apartments, Boston Globe (Mar. 26, 2013), https://www.bostonglobe.com/busi ness/2013/03/25/micro-apartments-tight-squeeze-but-livable/vDRdMnChgdhCdFOrmupnyN/story.html.
+
+Shape the Message It is important to make clear that thousands of ADUs will not sprout up overnight from the successful implementation of an ADU ordinance.
+
+• ADUs will not dramatically alter the landscape of existing neighborhoods 
+• ADU development will be relatively slow and scattered throughout communities 
+• Assure constituents that studies to assess the strengths and weaknesses of ADU development will be used to inform the decision-making process. 
+
+Address All Legitimate Opposition The key to overcoming community opposition to establishing a regulatory structure for ADUs is to address the community’s legitimate concerns. The local government should be prepared to describe the numerous commu nity benefits of ADUs and willingness to address legitimate concerns. For example, ADUs architectural and design compatibility with the neighborhood may be an issue. Local governments could include a modest and simple set of design guidelines to assure compatibility with the surroundings. For instance, the guidelines could deal with mass, scale, height, and site position of the ADUs to gain community support. Guidelines would make the overall design of the ADU more predictable and compatible with the principal structure and neighborhood.
+
+Parking Parking may be an issue a local government will need to address. Some community members may oppose ADU development specifically in terms of parking. However, requiring new parking may be too costly to homeowners looking to build an ADU. It is unlikely that 1) dozens of ADUs will sprout up overnight after implementation of a flexible code; and 2) even if they did sprout up overnight, it is unlikely they would all be located on the same block or in the immediate vicinity. As mentioned previously, the parking problem for ADUs in single-family areas can be solved through innovative design solutions. Local governments should be prepared to advocate for their methods. The City of Orlando provides a potential compromise in this area. Orlando requires parking for ADUs 500 square feet or more but does not require parking to be built for ADUs less than 500 square feet. This solution was de signed to encourage smaller units and in recognition of the complexity of building a new parking space on a parcel while meeting setback, maximum lot coverage, and other structural requirements.
+
+Garner Support Partner with local organizations interested in affordable housing such as:
+
+• Business community, 
+• Clergy, and 
+• Social services agencies. 
+
+Contact the media to inform the public so that they can learn more about:
+
+• How ADUs are developed, 
+• Their public purpose, and 
+• Populations served 
+
+#### VII. ADUs and Tiny Homes
+
+Tiny homes are increasing in popularity; local governments may be asked how tiny homes and ADUs differ. ADUs and tiny homes have many similarities. Both are relatively small in size compared to traditional dwelling units, are flexible in where and how they are built, and cause relatively little impact on the environment and existing infra structure. However, there are differences in the two housing types which require different rules and regulations from a zoning and land use standpoint. Simply put, ADUs can be tiny homes and tiny homes can be ADUs. Yet, this is not always the case. Here are some main distinctions between the two housing types:
+
+1. By Definition By definition, ADUs are accessory to a primary unit and under the same ownership. An ADU cannot exist on a lot by itself. This contrasts with a tiny home which can stand on a lot independently. Because of this, local governments regulate the location, size, and structural requirements of tiny homes differently from ADUs. A tiny home can be an ADU if built in the backyard of a single-family home and under the same ownership. An ADU can be considered a tiny home based the size of the unit. If a tiny home is built as a backyard unit, it will need to follow ADU regulations. Otherwise, local governments tend to regulate tiny homes separately.
+
+2. Size Tiny homes are generally smaller in size than the typical ADU. A tiny home is usually defined as a habitable structure of less than 500 square feet. This square footage definition depends on the jurisdiction. ADUs, by contrast, are typically up to 1,000 square feet or larger in some circumstances. Thus, when local governments regulate stand-alone tiny homes without reference to a primary unit, they tend to max the size requirement at 400 or 500 square feet. If it is considered an accessory dwelling unit, the tiny home can be larger in size.
+
+3. Mobility One main distinction between the two housing types is that tiny homes can be built on wheels. Tiny homes on wheels (THOW) are typically allowed in areas zoned for mobile homes. If a tiny home is on wheels, it likely cannot be an ADU as local governments generally require ADUs to be on a foundation. THOWs will need to be registered with the Florida Department of Highway Safety and Motor Vehicles.
+
+HIGHLIGHTS ADUs and Tiny Homes are alternative housing solutions. ADUs are always accessory to the primary unit. Tiny homes can stand alone. As a result, different regulations apply. Tiny homes and ADUs differ by:
+
+• Definition 
+• Size 
+• Mobility 
+
+If the tiny home is an on-site structure, it will be subject to the same zoning requirements as a single-family home, ADU, or clustered site, depending 
+on the circumstances. 
+In sum, a tiny home can be an accessory dwelling unit and an ADU can be considered a tiny home. Different rules and regulations apply whether 
+the tiny home is a backyard unit, whether it is a stand-alone unit, and whether it is on wheels. If a backyard unit, the tiny home will need to follow 
+the relevant ADU regulations. If a tiny home is a stand-alone unit on a single-family site, multi-family cluster site, or on wheels within a mobile home 
+park, different standards apply based on zoning districts and location. 
+
+An ADU cannot exist on a lot by itself. A tiny home, however, can exist by itself.
+
+A tiny home can be an ADU if built in the backyard of a single-family home and under the same ownership.
+
+Tiny homes are generally less than 500 square feet which is smaller than the typical ADU.
+
+Tiny homes can be built on wheels. and are typically allowed in areas zoned for mobile homes. Generally, ADUs are required to be on a foundation.
+
+A tiny home can be an accessory dwelling unit and an ADU can be considered a tiny home. However,
+
+different rules and regulations often apply.
+
+#### VIII. Best Practices
+
+Below you’ll find best practices chart for a successful ADU program.
+
+HIGHLIGHTS This section provides a best practices chart for a successful ADU program, including:
+
+• Zoning 
+• Development Review, Fees, & Incentives 
+• Administration 
+
+| CATEGORY | BEST PRACTICES |
+| --- | --- |
+| Zoning | • Allow ADUs in all single-family districts as an accessory use • Owner must occupy either the primary or accessory dwelling unit • No rental restrictions • No parking requirement if there is on-street parking available • 375-1200 sq. feet with allowances for an increased maximum if lot a certain size • Must meet district setback requirements • Exempt from density calculations • Shall connect to existing utility connections |
+| Development Review, Fees, & Incentives | • Waiver of impact fees if used as affordable rental; if not, “de minimis” impact fee of $100 or by square footage • Streamlined and transparent permitting process • ADU Loan Program for affordable rental construction w/funds from local housing trust or other revenue pool |
+| Administration | • Monitoring system to study local ADU impact on parking, nuisances, property values, etc. • Homeowner & Community Education program |
+
+#### IX. Model Ordinance
+
+This Model Ordinance combines our findings with the recommendations as provided in Section 163.31771 of the Florida Statutes. Certain requirements will depend on the unique nature of each community. This Model Or dinance contains the baseline of requirements to ensure an ADU-friendly regulatory structure. Local ordinances may contain greater or fewer requirements than what is provided here. At minimum, local governments should allow ADUs in all single-family districts and adhere to owner-occupancy flexibility regulations. After creating an ADU regulatory structure, it is essential for the local government to have a system in place to track the total number and location of each permitted ADU. For an ADU system to work, the local government ought to continuously monitor the progression of the program. The numbers provided here, especially in reference to lot size and size of the ADU overall, are reflective of what are considered best practices. Fundamentally, when devising an ADU ordinance, it is essential that local govern ment regulations do not hinder the potential of ADUs as a source of affordable housing.
+
+Accessory Dwelling Units (a) Purpose — The intent and purpose of this section is to allow accessory dwelling units to be permitted in all single-family districts and other zone districts as _________ (City/County) finds necessary. It is also the intent and purpose of this section to create a regulatory framework that encourages the development of accessory dwelling units that are rented on the local housing market to members of the community. _________ (City/ County) adopts the view of the Florida Legislature as stated in Section 163.31771 of the Florida Statutes pertaining to the need to encourage the permitting of accessory dwelling units in single-family residential areas in order to increase the availability of affordable rentals for extremely-low-income, very-low-income, low-income, or moderate-income persons. (1) Accessory dwelling units are intended to provide additional housing that is incidental to a primary use. Accessory dwelling units are intended to be used as a necessary smart growth tool to increase the supply of affordable housing, elderly and disabled care units close to family members and caretakers, and/or workforce housing development. Accessory dwelling units are unique housing tools that pro vide for infill development with low environmental impacts that can connect to existing infrastructure.
+
+HIGHLIGHTS This section includes a Model Ordinance with baseline requirements to ensure an ADU friendly regulatory structure.
+
+(2) With surging housing costs and lack of affordable housing stock, accessory dwelling units capitalize on the prominence of the single-family home by providing an additional family or persons access to an affordable dwelling unit on the same lot – typically in areas of our community that are closer to areas of greater opportunity. Creating a regulatory atmosphere that encourages increasing the number of accessory dwelling units will have a positive impact on our community’s housing shortage and on the property rights of homeowners. 
+(3) These standards are devised to ensure that the development of accessory dwelling units do not cause negative impacts on the character or stability of single-family neighborhoods. 
+
+(b) Definitions (1) “Accessory dwelling unit” means an ancillary or secondary living unit that has a separate kitchen, bathroom, and sleeping area existing within the same structure, or on the same lot, as the primary dwelling unit. The accessory dwelling unit may be a separate and detached unit, an attached unit to the principal structure, a repurposed existing space within the principal structure, an apartment over a garage, or a similar structural form. (2) “Affordable rental” means that monthly rent and utilities do not exceed 30 percent of that amount which represents the percentage of the median adjusted gross annual income for extremely-low-income, very-low-income, low-income, or moderate-income persons. (3) “Lot requirements” means restrictions on lot size, setbacks, building coverage, and similar zoning requirements. (4) “Short-term rental” means the rental of a primary or accessory unit for thirty days or less.
+
+(c) Standards (1) Accessory dwelling units are to be permitted as accessory uses to single-family homes in all residential districts and all other districts as _______ (City/County) deems necessary. (2) Unless the accessory dwelling unit is used as a short-term rental, the owner must occupy either the principal or accessory dwelling unit. (A) If used as a short-term rental, the owner must occupy the primary unit. (3) No more than one accessory dwelling unit shall be allowed on any residential lot or within any principal nonresidential structure. (4) An accessory dwelling unit may be constructed with or after the construction of the primary unit. (5) The establishment of a new accessory dwelling unit shall only be allowed if the lot area of the principal building is at least 5,000 square feet. (6) The accessory dwelling unit shall be subordinate to the principal building as to location, height, square footage, and building coverage. The design of the accessory dwelling unit shall be uniform, compatible, or complementary in appearance to the primary residence. (7) The floor area of the accessory dwelling unit shall be no less than 300 square feet and no greater than 1,200 square feet. A variance to increase this amount may be requested provided that the total building coverage does not exceed district standards.
+
+(8) All accessory dwelling units shall meet the applicable zoning district setbacks. Total building coverage on the lot shall not exceed district stan dards. The accessory dwelling unit shall comply with the requirements of all applicable housing or buildings codes. (9) No additional parking spaces are required if there is on-street parking available within ______ feet of the parcel. If there is no on-street parking available, one off-street space is required unless the ADU is 500 square feet or less. (10) Accessory dwelling units are exempt from zone district density calculations. (11) The accessory dwelling unit may connect to existing water, sewer, and other existing utility connections.
+
+(d) Development Review Procedures (1) Applications for accessory dwelling unit development shall be streamlined to the greatest extent possible. (2) Applicants may seek a variance from all structural and lot requirements.
+
+(e) Impact Fees (1) If used for affordable rental, impact fees shall be waived. An application for a building permit to construct an affordable rental must include an affidavit from the applicant which attests that the unit will be rented at an affordable rate to an extremely-low-income, very-low-income, low-in come or moderate-income person or persons. _________ (City/County) will enter into deed restrictions or other agreements as necessary to ensure that the ADU is used for affordable housing purposes. (2) If not used for affordable rental or the application does not include an affidavit which attests to the accessory dwelling unit as an affordable rental, impact fees will be assessed at a “de minimis” impact fee of $100.
+
+#### X. Examples of ADU Policies in Florida
+
+40 City of Orlando, Staff Report to the Municipal Planning Board, LDC Amendment – Accessory Dwelling Units (ADUs) (May 15, 2018), available at http:// www.cityoforlando.net/city-planning/wp-content/uploads/sites/27/2018/05/MPBStaffReport2018-05_LDC2018-10004.pdf. 41 Orlando, Fla. Code of Ordinances CH 58, Part 3A (2018).
+
+Orlando The City of Orlando recently adopted an ADU ordinance with a clear intent to promote the use of ADUs. The ordinance allows ADUs in all single-family districts, does not require parking if the ADU is 500 square feet or less, and does not have a strict owner-occupancy requirement. The staff report presented in support of the ordinance demonstrates the local government’s understanding of ADUs as a tool for affordable housing and the need to create a regulatory atmosphere that encourages their use. 40 The staff report includes an excellent description of the benefits ADUs provide, a survey of comparative local governments and their ADU policies, and a compre hensive analysis of how the new ADU ordinance lessens the land-use restrictions on local governments. Elements of the Ordinance 41:
+
+• Type of Use: Accessory 
+• Zone Districts Allowed: All residential districts as well as mixed use and office districts. 
+• Size: Maximum of 50% of the size of the principal unit and can be no larger than 1,000 square feet. 
+• Minimum Lot Size: Correlated with the size of the ADU and depends on the zoning district. Residential districts require a lot size of a minimum of 5,500 square feet for an ADU of up to 500 square feet and 8,250 square feet minimum for an ADU of up to 1,000 square feet. 
+• Parking: No required parking for ADUs of 500 square feet or less. One additional off-street parking space is required for ADUs above 500 square feet. 
+• Owner-Occupancy: Not explicit in the ordinance. 
+Pinellas County 
+Pinellas County’s ordinance has an important element that is worth showcasing: ADUs are exempt from density 
+calculations. This is a best practice as it allows more single-family lots to construct lawful ADUs. Further, Pinellas 
+County allows the owner of the property to occupy either the primary unit or ADU. This flexibility in owner-occu 
+pancy is essential to a successful ADU Ordinance. 
+
+HIGHLIGHTS This section provides examples of ADU policies. Examples are from the following jurisdictions:
+
+• City of Orlando 
+• Pinellas County 
+• Alachua County 
+
+Elements of the Ordinance 42:
+
+• Type of Use: Accessory 
+• Zone Districts Allowed: All single-family districts and multi-family residential 
+• Density: ADUs are exempt from density calculations 
+• Size: Shall not exceed 750 square feet or 50% of the living area of the primary, whichever is less 
+• Owner-Occupancy: Owner must occupy either the primary unit or ADU 
+Alachua County 
+As with Pinellas County, Alachua County does not include the size of an ADU in gross residential density calculations and allows the homeowner to live in 
+either the primary unit or ADU. The Alachua County ordinance is similar to Pinellas’ in many respects and is also a model for local governments around the 
+state. A change a county like Alachua could make is to consider zero-lot line configurations when establishing setback requirements. A relaxed setback 
+requirement can encourage healthy ADU development on lots that may be otherwise unable to build a lawful ADU. 
+Elements of the Ordinance 43: 
+• Type of Use: Accessory 
+• Zone Districts Allowed: Single-family districts and agricultural districts 
+• Density: ADUs are exempt from density calculations 
+• Size: Maximum of 50% of principal residence or 1,000 square feet, whichever is greater 
+• Setbacks: Must meet applicable zoning district setback requirements 
+• Owner-Occupancy: Owner must occupy either the primary unit or ADU 
+
+42 Pinellas County Land Development Code § 138-1 (2018). 
+43 Alachua County Code § 404.24 (2018). 
+
+EXAMPLES OF ADU POLICIES IN FLORIDA
+
+Elements of the Ordinance City of Orlando Pinellas County Alachua County
+
+Type of Use Accessory Accessory Accessory
+
+Zone Districts All residential districts as well as mixed use and office districts.
+
+All single-family districts and multi-family residential
+
+Single-family districts and agricultural districts
+
+Density - ADUs are exempt from density calculations
+
+ADUs are exempt from density calculations
+
+| Size | Maximum of 50% of the size of the principal unit and can be no larger than 1,000 square feet | Shall not exceed 750 square feet or 50% of the living area of the primary, whichever is less | Maximum of 50% of principal residence or 1,000 square feet, whichever is greater |
+| --- | --- | --- | --- |
+| Minimum Lot Size | Correlated with the size of the ADU and depends on the zoning district. Residential districts require a lot size of a minimum of 5,500 square feet for an ADU of up to 500 square feet and 8,250 square feet minimum for an ADU of up to 1,000 square feet. | - | - |
+| Parking | No required parking for ADUs of 500 square feet or less. One additional off street parking space is required for ADUs above 500 square feet. | - | - |
+| Setbacks | - | - | Must meet applicable zoning district setback requirements |
+
+Owner-Occupancy Not explicit in the ordinance Owner must occupy either the primary unit or ADU
+
+Owner must occupy either the primary unit or ADU
+
+#### XI. Other Resources for ADU Models
+
+Santa Cruz, California Accessory Dwelling Unit Program
+
+• Santa Cruz offers its residents assistance through loans, an ADU Manual, and ADU design prototypes. 
+• http://www.cityofsantacruz.com/government/city-departments/planning-and-community-development/accessory-dwelling-units-adus 
+
+Family Housing Fund – Twin Cities ADU Guidebook for Homeowners
+
+• Family Housing Fund is an affordable housing organization based in Minneapolis, Minnesota that has released ADU Guidebooks for Homeowners, ADU Developers, and Policy Leaders. 
+• http://www.fhfund.org/adu/ 
+
+Decatur, Georgia
+
+• Decatur allows ADUs on all single-family lots and recognizes the use of ADUs as a tool to supply the “missing middle” of the housing stock. 
+• http://www.decaturga.com/city-government/city-departments/planning-and-zoning-redesign/permits-and-zoning/accessory-dwelling-units 
+
+Urban Land Institute Study – Jumpstarting the Market for Accessory Dwelling Units: Lessons Learned from Portland, Seattle and Vancouver
+
+• This study describes in detail how these three cities removed barriers to ADU development and the increase in construction that occurred. 
+• http://ternercenter.berkeley.edu/uploads/ADU_report_4.18.pdf 
+
+NYU Furman Center – Responding to Changing Households: Regulatory Challenges for Micro-Units and Accessory Dwelling Units
+
+• This work dives through several cities and their ADU regulations and discusses some barriers to ADU development. 
+• http://furmancenter.org/files/NYUFurmanCenter_RespondingtoChangingHouseholds_2014_1.pdf 
+
+R Street Policy Study No. 89
+
+• This study provides an introductory overview to ADU development, discusses ADU benefits and their barriers to full implementation. 
+• http://www.rstreet.org/wp-content/uploads/2017/03/89.pdf 
+
+Department of Housing and Urban Development Accessory Dwelling Units: Case Study
+
+• This 2008 study by HUD is outdated in some respects but does provide examples of how local governments have regulated ADUs around the country. 
+• https://www.huduser.gov/portal/publications/adu.pdf 
+
+#### Appendix: ADU Manual for Homeowners
+
+This document is intended to be a template for local governments to assist homeowners who may want to create an ADU.
+
+Table of Contents
+
+• What are ADUs? Introduction to ADU development 
+• Zoning and Design Standards Land Use/Zoning Regulations and Local Assistance 
+• Designing your ADU Neighborhood compatibility, ADU planning, financing, and design 
+• Permitting and Building your ADU Navigating the Local Development Process 
+• Managing your ADU Landlord/Tenant laws, leasing, and maintenance 
+• More Resources 
+
+a n
+
+##### Chapter One: What are ADUs?
+
+Introduction 
+Walking around your neighborhood, you may have seen windows and a door above a garage or a cottage sized home in the backyard of your neighbor’s 
+house. What you have seen is likely an accessory dwelling unit. Interested, you may be wondering how the unit was built, if it is lawful, and how you can 
+build your own for your elderly relative, collegiate son or daughter, or as a rental unit. 
+Accessory dwelling units (ADUs) are additional living quarters typically on single-family lots that are independent of the primary dwelling unit. An ADU can 
+be an apartment within a primary residence or it can be an attached or freestanding home on the same lot as the primary residence. 
+Accessory dwelling units were formerly referred to as granny or mother-in law flats and are also sometimes referred to as accessory apartments, garage 
+apartments, carriage houses, and backyard cottages. ADUs were a common feature of early 20th century development in America but their use dwin 
+dled with the onset of single-family suburb. ADUs were rarely included as an eligible use in municipal codes regulating land use, zoning, and general 
+land development regulations. 
+The tide is changing. Increasingly, local governments around the State of Florida see the benefits that ADUs provide and are changing their zoning codes 
+to allow ADUs as a lawful use in single-family neighborhoods. CITY/COUNTY allows ADUs as-of-right in single-family neighborhoods. This Manual an 
+swers questions you may have about ADU development and how you can construct a lawful unit on your property. 
+
+What are the benefits of an ADU? ADUs provide many benefits for the homeowner and the community. If rented on the long-term market (typically, with a minimum six-month lease), an ADU can provide a homeowner additional income to help pay down a mortgage, meet other expenses, or provide income for investment. Due to the relatively small size of the unit and because it does not require additional land or major new infrastructure, an ADU can be a valuable affordable housing tool for low to moderate-income individuals. ADUs promote mixed-income communities where lower-income households can find an affordable home in an area that may have greater employment and educational opportunities. If not rented, an ADU can provide numerous other benefits. ADUs can be used by elderly or disabled individuals that strive for continued indepen dence. An elderly or disabled individual could remain in their home and use an ADU for their caregiver. ADUs can also provide for family flexibility. The ADU can be used as a “granny flat” for elderly members of a family to help them age-in-place near the comfort of the family unit. With an ADU, a young adult could continue to live with their parents, but in a separate unit, as he or she works towards economic independence. Further, when developed close to employment centers, an ADU can re-duce a person’s reliance on transportation, providing additional benefits to society through environmental and energy cost savings.
+
+Who can build an ADU in (CITY/COUNTY)? This Section should contain the basics of your ADU ordinance. Include ba sic details about minimum lot size, zoning, maximum lot coverage, own er-occupancy, and setback requirements. Below is an example. Any homeowner within CITY/COUNTY who has a lot that is DESCRIBE MINIMUM LOT SIZE REGULATION or more in an area that is zoned for sin gle-family dwellings may be able to build an ADU. An ADU must meet set back, lot coverage, and other land use regulations as described in Chapter Two of this Manual. The homeowner must live in either the main house or the ADU and only one ADU per single-family lot is allowed. The ADU may be detached from the main dwelling or attached.
+
+What do I need to know to build an ADU? Building an ADU may be one of the largest projects a homeowner un dertakes on their property. First, decide whether you want to utilize the ADU as a long-term rental unit or for family members or other guests. If you choose the former, be aware of the landlord-tenant legal obligations and financial implications of leasing an ADU. Then, assess your finances and utilize this Manual to see if your lot is suitable for ADU development. Be sure that developing an ADU on your lot will meet zoning standards. If unsure that ADU development is right for you, CITY/COUNTY can assist in making this decision.
+
+##### Chapter Two: Navigating ADU Development
+
+This Chapter should describe the zoning and design standards as described in the local government’s ADU Ordinance. It should provide easy-to-read 
+charts on what properties are eligible to build a lawful ADU. 
+CITY/COUNTY has developed zoning standards for ADUs. These standards were established with community input to allow ADUs on the most possible 
+lots. The table below provides a summary of CITY/COUNTY standards for an ADU located in a single-family zone. 
+The Table can contain more zoning standards as the local government finds necessary. 
+
+| Zoning Standard | Requirement for ADUs Other Comments |
+| --- | --- |
+| Minimum Lot Size | |
+| Side-yard Setback | |
+| Front-yard Setback | |
+| Rear-yard Setback | |
+| | ADU Size |
+| | Parking |
+| Owner-Occupancy | |
+| Maximum Lot Coverage | |
+| Impact Fees | |
+| Density | Calculations |
+| Maximum Height | |
+| ADU Entrance | |
+
+a n
+
+It is important to make sure that your lot can contain a lawful ADU. CITY/ COUNTY can provide this guidance. You can also contact a local engineer to inspect your property for compatibility with these regulations. If you have further questions, please contact the RELEVANT DEPARTMENT at PHONE NUMBER/OTHER CONTACT INFORMATION to schedule an ap pointment to discuss the possibility of including an ADU on your property.
+
+Local Government Assistance This section should describe, in detail, any assistance that the local gov ernment offers for ADU development. It can include items such as an ADU loan program, impact fee reduction for long-term affordable units, techni cal assistance, and other financial assistance.
+
+a n
+
+##### Chapter Three: Designing your ADU
+
+Once I figure out the zoning standards for ADU development, what should I do next? For this portion of the Manual, the local government should consider part nering with local architects and provide information on who has expertise in ADU development. As with any construction or remodeling in CITY/COUNTY, appropriate building permits are required to develop an ADU. Chapter Four of this Manual provides information on how to navigate the permitting require ments. The permitting process will require drawings and models of your ADU. This Chapter discusses how to design your ADU. Once you are sure that you can build a lawful ADU on your property, con tact a local architect to begin designing the ADU. It will be beneficial to work with a qualified designer, builder, or engineer to make sure your proj ect meets your needs as well as CITY/COUNTY permitting requirements. It is important to select professionals that are familiar with local develop ment processes to ensure maximum ease of development. Local profes sionals can better anticipate the types of technical and regulatory issues you will need to address.
+
+How should I begin designing the ADU? First, it is important for your ADU to be a good fit with your home and the surrounding neighborhood. Consider talking to your neighbors to see how your ADU can best fit on your site and into your neighborhood. You should walk around your neighborhood and gather as much information as you can to make sure the ADU is compatible with the surrounding environment. Here are some good questions to consider before designing your ADU:
+
+• What is the predominant height of homes in the neighborhood? 
+• How much space is there between homes? 
+• How many neighboring properties have accessory units in their backyard? 
+• Do these accessory units blend in with the surrounding buildings? Are they attached or detached? 
+• Is there one material or color that is predominately used for the homes on your block? 
+• Where do most of the homes have their garages? Are they detached or attached? 
+• What do the backyards in your neighborhood typically contain? 
+• How private are the backyards in the neighborhood? Does vegeta tion exist on the sides or rear of homes? 
+
+Answering these questions will help you design an ADU that can blend in with the neighborhood. Understanding this fit will allow the ADU to exist within the fabric of the existing community. Privacy of Adjoining Properties. It is also important to understand the pri vacy aspects of building an ADU. Your neighbors may not want a dwelling in the backyard next to theirs that can potentially see into their home. You can resolve privacy issues with additional vegetation, careful planning, and com munication with your neighbors. The orientation of an ADU can solve privacy issues. You may think about which way your unit faces and where the windows and doors are located. Privacy for ADU residents. When designing your ADU, there is the op portunity to plan for which parts of the parcel will be used exclusively for the homeowner, the tenant, and for shared use. You will need to consider how tenants can access the ADU to limit passing by private rooms on route to the ADU. The location of parking and the ADU can also have a noise and physical impact on the primary unit and surrounding properties. You may
+
+TEMPLATE FOR LOCAL GOVERNMENT USE: ADU Manual for Homeowners want to be sure that tenants of the ADU need not walk near surrounding dwelling units on the way to the ADU. Design Compatibility. You will also need to consider the architectural compatibility with your primary unit. The ADU should be similar in appear ance to the primary unit to create an aesthetic and ownership connection between the main house and the ADU. You should also be careful in de signing the ADU in a manner that restricts the view of the primary unit or neighboring units. A larger ADU, for example, may restrict visual and/or physical access to a lake or other natural spaces. At a fundamental level, it is important that the ADU blend into the surrounding neighborhood and not be cause for concern from a design and planning standpoint. Fundamentally, you will need to decide:
+
+• Where the ADU will be located your property 
+• The size of the ADU 
+• Which direction the ADU faces 
+• How to access the ADU with the least impact on surrounding properties 
+• How to minimize privacy concerns 
+• Design compatibility with the primary unit and surrounding neighborhood 
+• When you are going to schedule the work All these decisions should be made with the underlying goal to design your ADU in a way that fits into the existing community. Work with your site engineer/architect or contact CITY/COUNTY for more information on designing your ADU. 
+
+How much will an ADU cost? At this point in process, you will also need to figure out the financing and development costs for your ADU. If you plan to use the ADU as a long-term rental unit, you may want the rent to cover the cost of development while keeping the monthly rent low enough to be attractive to renters. If you are building the ADU for other reasons, such as to house a caregiver, you may weigh the costs and benefits of building the ADU in comparison to the costs and benefits of moving to an assisted living facility, for example. First, you will need to consider the “hard costs” of ADU development. These costs are expenses directly related to the physical construction of the building. These costs cover the material and labor that will go into ADU development. The material hard costs include items such as cement, drywall, carpet, windows, and doors. Labor hard costs can include land scaping, site excavation, carpentry, and general building of the ADU. To lower your hard costs, you have some control over your destiny. Rather than building a detached ADU, for example, you can save money convert ing your garage into an apartment or by building an attached ADU. You can also choose the materials that you use to build the ADU. If parking is not required and you are able to connect to existing utilities, you can save costs there as well. You can also decide to do part of the work yourself instead of hiring additional labor. Below is an example ADU budget pro vided by the City of Santa Cruz, California. This is only a sample of what tools you will be dealing with as the prices will likely be different based on material selection, your customization needs, and the current pricing of these supplies in Florida.
+
+| Topic | | Total Dollars |
+| --- | --- | --- |
+| Off Site Improvements | Water Service | $3,500 |
+| | Grading/Excavating/Backfill/Compaction | $2,500 |
+| Foundation | | |
+| | Concrete & Rebar, Anchoring | $7,500 |
+| Framing | Studs, joists, rafters, sheathing, beams, headers, connectors | $24,500 |
+| | Rough | $2,500 |
+| Plumbing | | |
+| | Finish | $900 |
+| Roofing | Asphalt shingle | $3,500 |
+| Doors | Interior, exterior, shower encl. | $3,500 |
+| Windows | Wood | $4,500 |
+| | Drywall | $3,250 |
+| | Carpeting | $900 |
+| | Resilient Flooring | $800 |
+| Finishes | Countertops (laminate) | $750 |
+| | Cabinets | $1,200 |
+| | Ceramic Tile | $1,200 |
+| | Painting (interior and exterior) | $5,000 |
+| | Piperail Guardrails (Int.) | $2,500 |
+| Metalwork | | |
+| | Gutters, downspouts | $1,000 |
+| | Tankless Water Heater | $750 |
+| Mechanical | Gas Fired Wall Heaters | $800 |
+| | Garbage Disposal | $200 |
+| Landscaping | Allowance | $500 |
+| Total Preliminary Estimation of Construction Cost | | $76,000 |
+
+a n
+
+Next, you will need to consider the “soft costs” of ADU development. These costs are expenses indirectly related to the construction of the ADU. These include development fees, planning costs, utility hook-up fees, and professional design and engineering services. If you work with a local en gineer with experience with the local development process, these costs may be easy to calculate. Other soft costs include the maintenance of the ADU. Be sure to consider ongoing repairs as a part of your cost calculation and decide on materials up-front that may bring less maintenance costs down the road.
+
+How can I finance my ADU? If you do not have enough cash on hand, traditional mortgage products are regularly used to construct ADUs. First, you could seek a Home Equity Line of Credit (HELOC) or a Home Equity Loan. Both of these products are essentially second mortgages backed by the equity you own in your home. A Home Equity Loan provides a fixed amount of cash on a fixed repayment schedule backed by the equity in your home. A HELOC is sim ilar but is structured as revolving lines of credit, like a credit card, that has shorter repayment terms and only charges interest on the balance you have drawn. You can typically borrow up to 85% of the value of your home minus the amount you owe. This product typically has a 10-year draw peri od followed by a 20-year repayment period. Similarly, you can seek cash-out refinancing. This method is similar to home equity financing except that it replaces your current mortgage, has a fixed interest rate over the life of the loan (instead of an adjustable interest rate) that is typically lower than a HELOC, has greater initial payments, and is typically more cumbersome to receive. This method allows you refinance your current mortgage for more than what you currently owe in order to receive a lump-sum of cash to build your ADU. An advantage to this option is you can set the loan term for thirty years, lowering the monthly payments by spreading the cost of the ADU over a longer period. A construction loan can also be used. This loan can be utilized if you do not have sufficient equity based on your current home value. This type of loan looks at the improved value of the home rather than the current home value, allowing you to receive a greater loan if you lack necessary home equity. The closing costs and interest rates for a construction loan are typi cally higher than a standard refinance. If the local government offers a loan program for ADUs used as long-term affordable housing units, include that information here. For instance, the local SHIP program could be used for a loan program for ADUs, and the additional benefit of using SHIP would be the assurance that the ADU would serve an income eligible renter (could not be used for tourist vaca tion rental) and would be monitored for compliance. Contact your financial advisor, lender, or RELEVANT DEPARTMENT at PHONE NUMBER/OTHER CONTACT INFORMATION for more informa tion on the best financing options for your ADU.
+
+a n
+
+##### Chapter Four: Permitting and Building Your ADU
+
+The Land Development Process Once you have your ADU design and financing figured out as described in Chapter 3, you will need to begin navigating the local development process. Contact RELEVANT DEPARTMENT at PHONE NUMBER/ OTHER CONTACT INFORMATION for more information on starting the development process for your ADU. In this section, include information on the local land development process with in-depth information on how a homeowner can navigate relevant pro cedures.
+
+Building Your ADU Once your permits are finalized, you can begin building your ADU! First, you will want to hire a licensed and insured residential building contractor. You should ask two or three contractors to bid on your ADU. All bids should be based on the same set of plans and specifications and with the same materials, appliances, windows, and similar tools. Discuss the bids in detail with each contractor and gather as much as you can about the success and reputation of each. It is important to choose a contractor that is perfect for you. Ask the contractor for local references to see if former clients were satisfied with the work.
+
+Construction Contract Once you have a contractor in place, make sure you have a written contract in place and do not sign anything unless you completely understand what you are signing. Consult with an attorney if possible. Be as specific as possible and be sure the terms of the contract are clear. The contract should include the total price, when payments will be made, and whether there is a cancellation penalty. Include all aspects of the work that you consider important, including complete cleanup, removal of debris and materials, and when the work shall be done. After the contract is signed, be aware that modifications can be made with mutual agreement. Always use a signed “change order” if you add or delete work, substitute materials or equipment, or change the completion date. It is very important to have all modifications signed by both parties.
+
+Inspections This section should contain information on the local inspection process.
+
+##### Chapter Five: Managing Your ADU
+
+Renting your ADU This section applies if you decide to rent your ADU. If you intend to rent your ADU, you will be a landlord and there are many items you will need to consider. Choosing a tenant for your ADU may be the most important thing you do as a landlord. You will be choosing a person or household that will be liv ing on your property. To ensure the right tenant, you can first establish a screening process to attract responsible and honest applicants. Choose criteria by which to judge applicants and apply the criteria consistently for all applicants. Here are some potential screening points:
+
+• Require contact information for most recent landlords 
+• Require submittal of a complete application 
+• Run a credit and criminal background check 
+• Personal references It is important to use a written rental application when selecting tenants. A good application gives you access to verifiable information. Contact a local rental housing association or legal counsel for copies of sample rental applications. There are many resources at your disposal in this context. Be fore potential tenants submit their application, it is a good time to distrib ute your tenant selection criteria as well as specific information about secu rity deposits, vehicles, pet policy, maximum occupancy, and other issues related to the rental of the ADU. If the applicant rides a bicycle, consider providing a secure location for the bike. After receiving applications, request a credit check on each tenant who will be signing the lease. Credit checks reveal information about installment and revolving credit lines, court records, collection accounts, judgments, liens, and may be used to determine whether you think an applicant has the ability to pay rent. You can also check with the applicant’s previous 
+
+landlords to determine whether the applicant will be a tenant who pays in a timely fashion and keeps the property in good order. If the applicant is local, you can also ask permission to visit their current residence to assess their housekeeping. In choosing your ADU tenant, be sure to use a pro cess that is simple and fair. Follow all relevant civil rights laws which are designed to prevent discrimination based on issues that are unrelated to a person’s qualifications to be a good tenant. Once you have chosen the tenant, execute a written lease. First, decide how long the lease-term will be. If the lease term is for six months or less, you must remit Florida’s 6% sales tax plus any applicable discretionary sales surtax. Lease terms of longer than six months are exempt from sales tax. The lease agreement is vital to forming the understanding between the two parties. Responsibilities should be comprehensive and as clear and concise as possible, and spell out all expectations and responsibilities of each party. Consult with an attorney when devising a lease agreement. Finally, consult with your insurance agent to make sure you have adequate coverage for your ADU.
+
+Obligations as a Landlord Being a landlord in Florida brings responsibilities. In exchange for receiv ing rent and the right to have the ADU returned to you undamaged at the end of the lease term, you must satisfy your duties as a landlord. If unsure of your obligations, consult with an attorney before renting your ADU. As a landlord, you have the duty under Section 83.51 of the Florida Stat utes to provide a home that is safe and meets applicable housing, build ing, and health codes. You must make reasonable repairs as necessary to make sure the structural components of the ADU are in good repair and capable of resisting normal forces and loads. This may include fixing bro ken pipes, windows, doors, and other items that impair the safety of the
+
+a n
+
+home. You must make sure the plumbing is in reasonable working con dition and provide for functioning facilities for heat during winter, running water, and hot water. Florida law also proscribes affirmative disclosures you must make to your tenant. It is also your duty to respect the tenant’s rights as defined in Chapter 83 of the Florida Statutes and pursuant to the Lease. One of the most import ant tenant rights is the right of peaceful possession. You must not interfere with the tenant’s leasehold without first consulting the tenant and pro viding reasonably timed notice. You have the right to protect your ADU through inspection, but you must give a reasonable notice of at least 12 hours. You may not show prospective buyers or tenants the ADU without notice to and with the agreement of the existing tenants. Further, it is unlawful to increase or decrease services in a discriminatory manner or threaten to bring an action for possession in retaliation. Retal iation may be presumed if it occurs after a tenant has complained about housing conditions. It is also unlawful to lock the tenant out, shut off utili ties, or remove tenant’s property from the ADU. A landlord must follow all lease terms in accordance with the termination of the lease. If there is no written rental agreement or if the lease does not state otherwise and unit is rented on a month-to-month basis, you must give at least 15 days- notice in writing to end the tenancy. A week-to-week rental period requires seven days- notice. The notice may be posted on the door of the ADU if the tenant is absent from the premises. If the lease agreement is violated by the tenant, certain circumstances must be met before the tenant can be evicted. Section 83.20 of the Florida Stat utes lists the causes for removal of tenants. If the tenant fails to pay rent or refuses to move out, you may evict the tenant, but only after you have taken the proper steps to commence an action for possession. These include notifying the tenant and if the tenant does not cure the violation within three days after receiving notice, the landlord may file for eviction. Other steps follow. Because these steps are so technical, you should consult with an attorney when engaging in the eviction process. The purpose of this information is not to dissuade you from creating and renting an ADU, but rather to provide a full picture of the landlord obliga tions that come with renting any home or apartment.
+
+Maintaining the ADU The ADU must be maintained in accordance with housing, building, and health codes. If your ADU is a rental unit, be sure to respond to any tenant complaints in a swift manner. Follow the lease terms as to maintenance of the ADU. Most leases will state a procedure for repairs and damages in the event of a breach of contract. Under Section 83.201 of the Florida Statutes, if the lease is silent on the procedure to be followed to effect repair or mainte nance and the tenant places the obligation on the landlord, the tenant may withhold rent after notice to the landlord if the landlord fails to repair the unit. If the landlord does not fix the issue within 20 days, the tenant may withhold rent until the repair has been performed. Once the repair is com pleted, the tenant shall then pay the amounts of rent withheld. The lease may provide for a longer period of time for repair or maintenance.
+
+##### Chapter Six: More Resources
+
+In this section, include resources as the local government finds necessary to round out this educational material. This section should include a copy of the ADU ordinance and other applicable laws including, but not limited to, landlord-tenant laws and civil rights laws. This section may include local contractors, engineers, and architects that have expertise in ADU development as well as the contact information of all relevant departments of the local government. It may contain permit fees, a local ADU development checklist, other building codes, and other useful websites for homeowner education. If you would like assistance in developing your local government’s Homeowner ADU Manual, please contact the Florida Housing Coalition.
+
+#### Notes
+
+ACCESS AN ELECTRONIC VERSION OF THE
+
+### Accessory Dwelling Unit GUIDEBOOK
+
+AND OTHER VALUABLE RESOURCES UNDER THE PUBLICATIONS TAB ON THE FLORIDA HOUSING COALITION’S WEBSITE AT:
+
+FLhousing.org p^fZd^ahnlbg`Z__hk]Z[e^
+
+SPONSORED BY:
+
+The Florida Housing Finance Corporation
+
